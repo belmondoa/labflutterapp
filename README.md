@@ -17,9 +17,11 @@ Android
 Linux
 
 
-![linux1](https://github.com/belmondoa/labflutterapp/assets/101811719/5dcee33e-d6cd-4dbe-915a-c7700ff8136f)
+![linux1](https://github.com/belmondoa/labflutterapp/assets/101811719/917e4c8d-b0e4-4ace-b661-731477f76f07)
+![linux2](https://github.com/belmondoa/labflutterapp/assets/101811719/04444d21-4310-454c-852a-41c3daa520ec)
+
 
 
 Web
 
-![web1](https://github.com/belmondoa/labflutterapp/assets/101811719/0aafdb28-8cb8-46b6-97a9-ec7d0f9e1581)
+![web1](https://github.com/belmondoa/labflutterapp/assets/101811719/a1788250-5cd2-4a10-b857-c3f34a054e1d)
