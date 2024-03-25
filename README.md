@@ -25,4 +25,5 @@ Linux
 
 Web
 
-![web1](https://github.com/belmondoa/labflutterapp/assets/101811719/a1788250-5cd2-4a10-b857-c3f34a054e1d)
+![image](https://github.com/belmondoa/labflutterapp/assets/101811719/f1397086-b9e2-4edc-91d8-1be2b55b6daa)
+
